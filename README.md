@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola, soy Gonzalo Ledesma 👋
 
-<!--
-**galedesma/galedesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Soy estudiante de Ingeniería en Computación
+- ☕ Trabajo como desarrollador Java
+- 📊 Estoy aprendiendo Python y Data Science
+- 🕹 Fanático de los juegos
 
-Here are some ideas to get you started:
+### Contactame
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="galedesma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/galedesma/
